@@ -60,7 +60,9 @@ One of the challenge i had was to propely convert the view to landscape mode and
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-![](https://i.imgur.com/mRNkWlg.gif)
+Hello
+
+![](https://i.imgur.com/pMMTme7.gif)
 
 
 
